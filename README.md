@@ -32,7 +32,7 @@ Currently, I'm working on **NeuroNexus: An Intelligent System for Early Brain Tu
 ### ⚡ Fun Facts
 
 * My favorite color is blue — just in case you ever want to buy me a gift 😉
-* I have a parrot called "Paro" — very creative, I knowe🤗
+* I have a parrot called "Paro" — very creative name, I knowe🤗
 * I like solving problems with code — or at least trying to🥸
 * I spend way too much time debugging things that were just missing semicolons
 * I spend more time Googling errors than writing code
