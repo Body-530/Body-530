@@ -25,11 +25,11 @@ Currently, I'm working on **NeuroNexus: An Intelligent System for Early Brain Tu
 
 ### 📫 How to reach me
 
-* GitHub: 
 * Email: abdelrahman.yasser530@gmail.com
 
 
 ### ⚡ Fun Facts
+![Code Hacking GIF by Pizza Ninjas](https://github.com/user-attachments/assets/b57ae773-60aa-4500-9225-e391cc1cd247)
 
 * My favorite color is blue — just in case you ever want to buy me a gift 😉
 * I have a parrot called "Paro" — very creative name, I knowe🤗
