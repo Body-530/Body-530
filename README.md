@@ -18,9 +18,9 @@ Currently, I'm working on **NeuroNexus: An Intelligent System for Early Brain Tu
 * Git & GitHub
 
 ### 🚀 Current Focus
-![Uploading Hunter X Hunter GIF.gif…]()
 
-* Building **IoT and robotics projects**
+* Building **IoT and robotics projects**![Uploading Hunter X Hunter GIF.gif…]()
+
 * Developing **modern web applications**
 * Preparing projects for **technology competitions and research**
 * Focusing on my studies as I am in my senior year
