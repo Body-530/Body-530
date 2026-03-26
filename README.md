@@ -29,6 +29,7 @@ Currently, I'm working on **NeuroNexus: An Intelligent System for Early Brain Tu
 ### 📫 How to reach me
 
 * Email: abdelrahman.yasser530@gmail.com
+* Linkedin : https://www.linkedin.com/in/abdelrahmanxx/
 
 
 ### ⚡ Fun Facts
