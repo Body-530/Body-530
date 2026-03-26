@@ -1,4 +1,5 @@
 ## Hey yoo! 👋
+![142503](https://github.com/user-attachments/assets/dee40b4a-bfca-45e9-bedf-c17725f57038)
 
 I'm **Abdelrahman Yasser**, a high school student developer passionate about **robotics, IoT systems, electronics and AI technology**.
 
