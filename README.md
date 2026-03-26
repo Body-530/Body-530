@@ -8,6 +8,7 @@ I enjoy building smart systems that combine **electronics and software** to solv
 Currently, I'm working on **NeuroNexus: An Intelligent System for Early Brain Tumor Detection**.
 
 ### ⚙️ Tools & Technologies
+![tenor](https://github.com/user-attachments/assets/986cc7a8-5605-4037-a440-6f68922deee4)
 
 * Arduino
 * C++
