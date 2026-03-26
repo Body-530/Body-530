@@ -18,6 +18,7 @@ Currently, I'm working on **NeuroNexus: An Intelligent System for Early Brain Tu
 * Git & GitHub
 
 ### 🚀 Current Focus
+![Uploading Hunter X Hunter GIF.gif…]()
 
 * Building **IoT and robotics projects**
 * Developing **modern web applications**
@@ -30,7 +31,6 @@ Currently, I'm working on **NeuroNexus: An Intelligent System for Early Brain Tu
 
 
 ### ⚡ Fun Facts
-![Code Hacking GIF by Pizza Ninjas](https://github.com/user-attachments/assets/b57ae773-60aa-4500-9225-e391cc1cd247)
 
 * My favorite color is blue — just in case you ever want to buy me a gift 😉
 * I have a parrot called "Paro" — very creative name, I knowe🤗
