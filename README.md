@@ -9,7 +9,7 @@
 <img src="https://github.com/user-attachments/assets/dee40b4a-bfca-45e9-bedf-c17725f57038" width="400"/>
 
 <br><br>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Body-530&style=flat-square&color=blue)
 <!-- About Me -->
 <p>
 I'm <b>Abdelrahman Yasser</b>, a high school student developer passionate about <b>robotics, IoT systems, electronics and AI technology</b>.
