@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hey yoo! 👋
 
 I'm **Abdelrahman Yasser**, a high school student developer passionate about **robotics, IoT systems, electronics and AI technology**.
 
