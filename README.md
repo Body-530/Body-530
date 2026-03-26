@@ -32,6 +32,7 @@ Currently, I'm working on **NeuroNexus: An Intelligent System for Early Brain Tu
 
 
 ### ⚡ Fun Facts
+![Psg GIF](https://github.com/user-attachments/assets/df6da8e0-ab40-4ecb-ab57-b28bc5f0313c)
 
 * My favorite color is blue — just in case you ever want to buy me a gift 😉
 * I have a parrot called "Paro" — very creative name, I knowe🤗
