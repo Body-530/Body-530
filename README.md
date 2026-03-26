@@ -124,11 +124,17 @@ Grinding hard in my **senior year** while leveling up my skills
 <a href="https://www.linkedin.com/in/abdelrahmanxx/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://t.me/Body_350">
+  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201026547233">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </p>
 
 <p><b>Open to collaboration, competitions, and innovative projects 🚀</b></p>
-
-</div>
 
 
 <div align="center">
