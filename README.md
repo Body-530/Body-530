@@ -1,47 +1,221 @@
-## Hey yoo! 👋
-![142503](https://github.com/user-attachments/assets/dee40b4a-bfca-45e9-bedf-c17725f57038)
+<div align="center">
 
-I'm **Abdelrahman Yasser**, a high school student developer passionate about **robotics, IoT systems, electronics and AI technology**.
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+yoo!+👋;I'm+Abdelrahman+Yasser(boody);IoT+%7C+AI+%7C+Robotics+Developer;Building+Smart+Systems+" />
 
-I enjoy building smart systems that combine **electronics and software** to solve real-world problems.
+<br><br>
 
-Currently, I'm working on **NeuroNexus: An Intelligent System for Early Brain Tumor Detection**.
+<!-- GIF -->
+<img src="https://github.com/user-attachments/assets/dee40b4a-bfca-45e9-bedf-c17725f57038" width="400"/>
 
-### ⚙️ Tools & Technologies
-![tenor](https://github.com/user-attachments/assets/986cc7a8-5605-4037-a440-6f68922deee4)
+<br><br>
 
-* Arduino
-* C++
-* Python
-* Node.js
-* React.js / Next.js
-* Machine Learning
-* Git & GitHub
+<!-- About Me -->
+<p>
+I'm <b>Abdelrahman Yasser</b>, a high school student developer passionate about <b>robotics, IoT systems, electronics and AI technology</b>.
+</p>
 
-### 🚀 Current Focus
-![Hunter X Hunter GIF](https://github.com/user-attachments/assets/28e8caf0-c7d2-4e15-aa7d-01a77e5e8f9a)
+<p>
+I enjoy building smart systems that combine <b>electronics and software</b> to solve real-world problems.
+</p>
 
-* Building **IoT and robotics projects**
-* Developing **modern web applications**
-* Preparing projects for **technology competitions and research**
-* Focusing on my studies as I am in my senior year
+<p>
+🚀 Currently working on <b>NeuroNexus: An Intelligent System for Early Brain Tumor Detection</b>
+</p>
 
-### 📫 How to reach me!
+<br>
 
-* Email: abdelrahman.yasser530@gmail.com
-* Linkedin : https://www.linkedin.com/in/abdelrahmanxx/
+<!-- Cool Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=100&section=footer"/>
+
+</div>
+<div align="center">
+
+<h2>⚙️ Tools & Technologies</h2>
+
+<img src="https://github.com/user-attachments/assets/986cc7a8-5605-4037-a440-6f68922deee4" width="250"/>
+
+<br><br>
+
+<!-- Tech Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+</div>
+<div align="center">
+
+<h2>🚀 Current Focus</h2>
+
+<img src="https://github.com/user-attachments/assets/28e8caf0-c7d2-4e15-aa7d-01a77e5e8f9a" width="300"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="250">
+
+🧠 **Innovation Mode**
+<br><br>
+Building smart **IoT & Robotics systems** that interact with the real world
+
+</td>
+
+<td align="center" width="250">
+
+🌐 **Development Mode**
+<br><br>
+Creating **modern web applications** with scalable technologies
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="250">
+
+🏆 **Competition Mode**
+<br><br>
+Preparing high-impact projects for **tech competitions & research**
+
+</td>
+
+<td align="center" width="250">
+
+🎓 **Focus Mode**
+<br><br>
+Grinding hard in my **senior year** while leveling up my skills
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>📫 Let's Connect</h2>
+
+<p>
+<a href="mailto:abdelrahman.yasser530@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdelrahmanxx/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+<p><b>Open to collaboration, competitions, and innovative projects 🚀</b></p>
+
+</div>
 
 
-### ⚡ Fun Facts
-![Psg GIF](https://github.com/user-attachments/assets/df6da8e0-ab40-4ecb-ab57-b28bc5f0313c)
+<div align="center">
 
-* My favorite color is blue — just in case you ever want to buy me a gift 😉
-* I have a parrot called "Paro" — very creative name, I knowe🤗
-* I like solving problems with code — or at least trying to🥸
-* I spend way too much time debugging things that were just missing semicolons
-* I spend more time Googling errors than writing code
-* I fix one bug and create three new ones — efficiency 📈
+<h2>⚡ Fun Facts (a.k.a things I probably shouldn’t admit)</h2>
 
-![built-with-love](https://github.com/user-attachments/assets/5825678c-a979-48e8-b85b-86eef0930a2b)
+<img src="https://github.com/user-attachments/assets/df6da8e0-ab40-4ecb-ab57-b28bc5f0313c" width="300"/>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="234.525" height="50" viewBox="0 0 234.525 50"><path fill="#E46C17" d="M0 0h174.707v50H0z"/><path d="M21.432 18.634c0-.107.072-.18.18-.18h4.775c2.667 0 3.91 1.315 3.91 3.262 0 1.333-.612 2.162-1.423 2.613v.03c.81.305 1.64 1.314 1.64 2.773 0 2.414-1.604 3.567-4.253 3.567H21.62c-.108 0-.18-.07-.18-.18V18.63zm4.63 4.83c1.01 0 1.605-.54 1.605-1.44 0-.902-.594-1.425-1.604-1.425H24.19c-.073 0-.11.03-.11.1v2.65c0 .072.037.11.11.11h1.873zm-1.873 5.1h2.01c1.08 0 1.658-.577 1.658-1.532 0-.938-.576-1.532-1.657-1.532h-2.01c-.073 0-.11.036-.11.108v2.847c0 .072.037.108.11.108zm12.17-2.36v-7.57c0-.107.072-.18.18-.18h2.29c.107 0 .18.072.18.18v7.642c0 1.46.81 2.288 2.054 2.288 1.223 0 2.034-.83 2.034-2.288v-7.642c0-.107.072-.18.18-.18h2.29c.107 0 .18.072.18.18v7.57c0 3.044-1.947 4.702-4.686 4.702-2.76 0-4.705-1.658-4.705-4.703zm15.672-7.57c0-.107.072-.18.18-.18h2.29c.107 0 .18.072.18.18v11.894c0 .108-.073.18-.18.18h-2.29c-.108 0-.18-.07-.18-.18V18.634zm8.99 0c0-.107.07-.18.18-.18h2.29c.106 0 .18.072.18.18v9.605c0 .07.034.1.106.1h5.406c.106 0 .18.07.18.18v2c0 .11-.073.18-.18.18H61.2c-.107 0-.18-.07-.18-.18V18.63zM76.01 30.708c-.107 0-.18-.072-.18-.18v-9.605c0-.072-.035-.108-.107-.108h-3.1c-.108 0-.18-.072-.18-.18v-2c0-.108.072-.18.18-.18h9.064c.107 0 .18.07.18.18v2c0 .107-.073.18-.18.18h-3.1c-.073 0-.11.036-.11.108v9.604c0 .108-.07.18-.18.18H76.01zm28.017 0c-.128 0-.2-.072-.236-.18l-2.123-7.623h-.038l-2.145 7.622c-.037.108-.11.18-.235.18h-1.8c-.11 0-.18-.07-.217-.18l-3.17-11.894c-.02-.107.017-.18.143-.18h2.325c.128 0 .2.072.218.18l1.765 7.695h.037l2.09-7.695c.035-.107.11-.18.233-.18h1.57c.107 0 .18.072.215.18l2.163 7.695h.04l1.692-7.695c.02-.126.09-.18.217-.18h2.305c.126 0 .162.072.144.18l-3.153 11.894c-.018.108-.108.18-.234.18h-1.803zm10.57-12.074c0-.107.07-.18.18-.18h2.287c.108 0 .18.072.18.18v11.894c0 .108-.072.18-.18.18h-2.29c-.107 0-.18-.07-.18-.18V18.634zm11.69 12.074c-.11 0-.18-.072-.18-.18v-9.605c0-.072-.036-.108-.11-.108h-3.1c-.105 0-.18-.072-.18-.18v-2c0-.108.074-.18.18-.18h9.066c.108 0 .18.07.18.18v2c0 .107-.07.18-.18.18h-3.1c-.072 0-.107.036-.107.108v9.604c0 .108-.073.18-.18.18h-2.29zm11.33-12.074c0-.107.072-.18.18-.18h2.29c.107 0 .18.072.18.18v4.596c0 .072.035.108.107.108h4c.072 0 .11-.036.11-.108v-4.596c0-.107.07-.18.18-.18h2.288c.107 0 .18.072.18.18v11.894c0 .108-.072.18-.18.18h-2.29c-.106 0-.18-.07-.18-.18v-4.72c0-.073-.036-.11-.107-.11h-4.003c-.072 0-.107.037-.107.11v4.72c0 .108-.07.18-.18.18H137.8c-.108 0-.18-.07-.18-.18V18.634z" enable-background="new" fill="#fff"/><path fill="#D35B09" d="M174.707 0h59.818v50h-59.818z"/><path fill="#fff" d="M212.52 18.386c-1.89-1.733-4.955-1.733-6.847 0l-1.282 1.178-1.28-1.178c-1.89-1.733-4.95-1.733-6.84 0-2.13 1.95-2.13 5.115 0 7.065l8.127 7.47 8.13-7.463c2.123-1.95 2.123-5.114 0-7.064z"/><path fill="#D35B09" d="M174.707 0h59.818v50h-59.818z"/><path fill="#fff" d="M212.52 18.386c-1.89-1.733-4.955-1.733-6.847 0l-1.282 1.178-1.28-1.178c-1.89-1.733-4.95-1.733-6.84 0-2.13 1.95-2.13 5.115 0 7.065l8.127 7.47 8.13-7.463c2.123-1.95 2.123-5.114 0-7.064z"/></svg>
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="250">
+
+💙 **Blue is my color**
+<br><br>
+If you ever wanna gift me something…  
+you already know the theme 😉
+
+</td>
+
+<td align="center" width="250">
+
+🦜 **Paro the Legend**
+<br><br>
+Yes, I have a parrot named *Paro*  
+Creativity level: 100 📉
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="250">
+
+🧠 **Problem Solver (?)**
+<br><br>
+I love solving problems with code…  
+or at least emotionally fighting them 🥸
+
+</td>
+
+<td align="center" width="250">
+
+🐛 **Bug Creator Pro**
+<br><br>
+Fix 1 bug → unlock 3 new ones  
+Efficiency 📈📈📈
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="250">
+
+🔍 **Google Engineer**
+<br><br>
+I spend more time Googling errors  
+than writing actual code 💀
+
+</td>
+
+<td align="center" width="250">
+
+; **Final Boss**
+<br><br>
+90% of my bugs are caused by  
+a missing semicolon 🙂
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/5825678c-a979-48e8-b85b-86eef0930a2b" width="200"/>
+
+<br><br>
+
+<!-- Typing Outro -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Built+with+bugs+and+dreams+💀;Powered+by+coffee+and+debugging+☕;Still+learning+...+always+🚀" />
+
+</div>
